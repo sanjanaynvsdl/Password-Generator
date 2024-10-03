@@ -77,7 +77,7 @@ useEffect(()=>{
 
   return (
     <>
-    <div className='bg-purple-100' >
+    <div className='text-white' >
       <h1 className= 'font-bold p-4 text-center text-3xl '>
       Tired of Thinking Up New Passwords?🤔 Let Us Handle It for You!🔒</h1>
       
